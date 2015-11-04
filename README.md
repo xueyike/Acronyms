@@ -1,9 +1,9 @@
 # Acronyms
-Developed in Xcode7, Objective-C
-
 Search for the corresponding meanings of input acronyms.
 
-In AcronymsTestUITests.m file, there are two simple test cases.
+Developed in Xcode7, Objective-C
+
+In AcronymsTestUITests.m file, there are two simple test cases. Please open "AcronymsTest.xcworkspace" with Xcode and RUN it.
 
 Basic functionalities:
 
